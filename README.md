@@ -6,22 +6,18 @@ A little more about me: I'm from **Uttar Pradesh, India**, and I hold a **Bachel
 
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyaf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 
-## 🚀 What I'm Up To  
-- 🔭 **Currently working on my own startup!** (Stealth mode)  
-- 🌱 **Hobbies & Interests:**  
-  - Working out at the gym—**Calisthenics** 💪  
-  - Reading books by **Nassim Nicholas Taleb** (I've read *Incerto* three times!) 📚  
+## What I'm Up To  
+- **Currently working on my own startup!** (Stealth mode)  
+- **Hobbies & Interests:**  
+  - Working out at the gym—**Calisthenics**  
+  - Reading books by **Nassim Nicholas Taleb** (I've read *Incerto* three times!)  
   - Playing the **Bansuri** 🎶  
-  - Listening to timeless **ghazals** by **Mehdi Hassan** and **Jagjit Singh** 🎼  
+  - Listening to timeless **ghazals** by **Mehdi Hassan** and **Jagjit Singh** 
 
-## 📫 Connect with Me  
-Find me on **[LinkedIn](https://www.linkedin.com/in/rishabh-agrahari)**.  
+## Connect with Me  
+Find me on **[LinkedIn](https://www.linkedin.com/in/rishabh-agrahari)**.   
 
-## ⚡ Fun Fact  
-Do you know the name of **Biswa Kalyan Rath’s** father?  
-It’s **Uneesva Kalyan Rath**. 😆  
-
-## 🔥 Fuel for the Fire  
+## Fuel for the Fire  
 
 The quote that defines my life:  
 
