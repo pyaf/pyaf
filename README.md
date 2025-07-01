@@ -1,25 +1,27 @@
 # Hi there 👋  
 
-I'm **Rishabh Agrahari**. I started programming in 2015 and immediately fell in love with it. At heart, I'm a programmer—I can build things. Think of anything a programmer can create, and I can do it. I'm deeply passionate about bringing cutting-edge applied AI to Indian industries. After working in startups for five years, I quit my job in early 2025 to start my own company. Right now, I'm working on the most ambitious project of my life—and I’ve never been this happy! 😊  
+I'm **Rishabh Agrahari**. I started programming in 2015 and immediately fell in love with it. At heart, I'm a programmer—I can build things. I'm deeply passionate about bringing cutting-edge applied AI to Indian industries. I am the founder of Sanchai Analytics, where we are building Agentic AI solutions for Renewable Energy Industry in India and the world.
 
 A little more about me: I'm from **Uttar Pradesh, India**, and I hold a **Bachelor's and Master's degree in Electrical Engineering** from **IIT BHU, Varanasi**.  
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyaf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyaf&show_icons=true&theme=vue&count_private=true&include_all_commits=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pyaf&theme=vue&row=1&column=6)
 
 ## What I'm Up To  
-- **Currently working on my own startup!** (Stealth mode)  
+- **Currently Building [Sanchai Analytics](https://sanch.ai)!**
 - **Hobbies & Interests:**  
-  - Working out at the gym—**Calisthenics**  
+  - Working out at the gym - **Calisthenics**  
   - Reading books by **Nassim Nicholas Taleb** (I've read *Incerto* three times!)  
   - Playing the **Bansuri** 🎶  
   - Listening to timeless **ghazals** by **Mehdi Hassan** and **Jagjit Singh** 
 
-## Connect with Me  
-Find me on **[LinkedIn](https://www.linkedin.com/in/rishabh-agrahari)**.   
+## Connect with me
 
-## Fuel for the Fire  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/rishabh-agrahari)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/pyags)
 
-The quote that defines my life:  
+## Favorite Quote
 
 > *"Wind extinguishes a candle and energizes a fire. You want to be the fire and wish for the wind."*  
 > — **Nassim Nicholas Taleb**  
